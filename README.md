@@ -1,0 +1,2 @@
+This is a code along project based on the Udemy course of Jonas Schmedtmann, who really deserves credit for this work. There are various css tricks in this code and it is also a good reference for SASS best practices.
+The icons were downloaded from linea.io - they also deserve credit for their work.
